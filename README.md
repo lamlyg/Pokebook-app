@@ -2,6 +2,10 @@
 > 러닛 스터디 - 리액트(ReactJS) 웹 어플리케이션 스터디
 <br />
 
+## Introduction
+리액트를 이용한 포켓몬 도감 실습 예제 
+<br />
+
 ## Development Environment
 ### OS 
 - Windows 10
